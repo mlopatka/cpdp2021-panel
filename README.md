@@ -1,3 +1,3 @@
-# cpdp2020-panel
+# cpdp2021-panel
 
-Plannign and materials for a Mozilla panel at the CPDP 2020 conference in Brussels 
+Planning and materials for a panel proposal at the CPDP 2021 conference in Brussels.
